@@ -28,7 +28,7 @@ String pool stores strings and prevents duplicates to save memory
 Java Operators:
 - postfix (x++, x--)
 - prefix  (++x. --x)
-- **multiplicative (* / %)**
+- multiplicative (* / %)
 - **additive (+, -)**
 - shift (<< >> >>>)
 - **relational (<, >, <=, >=)**
