@@ -23,3 +23,24 @@ Primitive Datatypes to Java:
 
 
 String pool stores strings and prevents duplicates to save memory
+
+
+Java Operators:
+- postfix (x++, x--)
+- prefix  (++x. --x)
+- **multiplicative (* / %)**
+- **additive (+, -)**
+- shift (<< >> >>>)
+- **relational (<, >, <=, >=)**
+- equality (==, !=)
+- bitwise AND (&)
+- bitwise exclusive OR (^)
+- bitwise OR (|)
+- logical AND (&&)
+- logical OR (||)
+- ternary (expression ? true option:false option)
+- assignment (=, +=, -=, /=, %=)
+
+
+**short circuit** - If the outcome can be determind by only one side, it won't even look at the other side...if the evaluation of a logical expression exits in between before complete evaluation
+
