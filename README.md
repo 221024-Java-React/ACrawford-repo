@@ -17,8 +17,9 @@ Primitive Datatypes to Java:
 
 ### QC prep
 
-*Pass by Value:* The method parameter values are copied to another variable and then the copied object is passed, that's why it's called pass by value
-*Pass by Reference:* An alias or reference to the actual parameter is passed to the method, that's why it's called pass by reference
+**Pass by Value:** The method parameter values are copied to another variable and then the copied object is passed, that's why it's called pass by value
+
+**Pass by Reference:** An alias or reference to the actual parameter is passed to the method, that's why it's called pass by reference
 
 
 String pool stores strings and prevents duplicates to save memory
