@@ -1,1 +1,1 @@
-# A repository continuing revature training materials
+# A repository containing revature training materials
